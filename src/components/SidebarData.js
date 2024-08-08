@@ -10,6 +10,7 @@ export const SidebarData = [
     icon: <AiIcons.AiFillHome />,
     cName: "nav-text",
   },
+  // samad
   {
     title: "Reports",
     path: "/reports",
